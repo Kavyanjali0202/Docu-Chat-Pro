@@ -32,25 +32,24 @@ Welcome to this powerful AI-driven chatbot project that enables you to **ask que
 ---
 
 ## 🚀 Installation Guide
+1️⃣ Clone the repository
 
 2️⃣ **Set up a virtual environment**  
-```bash
     python -m venv venv
     source venv/bin/activate  # On macOS/Linux
     venv\Scripts\activate  # On Windows
-```
+
 
 3️⃣ **Install dependencies**  
-```bash
     pip install -r requirements.txt
-```
+
 
 4️⃣ **Add API keys**  
 Create a `.env` file and add your **OpenAI** and **Huggingface API keys**:  
-```
+
 OPENAI_API_KEY=your_openai_api_key
 HUGGINGFACE_API_KEY=your_huggingface_api_key
-```
+
 
 
 
