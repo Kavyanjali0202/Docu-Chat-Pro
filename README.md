@@ -86,11 +86,8 @@ Open your browser and go to:
 🔹 **Multi-Language Support** – Expand to support multiple languages.  
 🔹 **More AI Models** – Integrate additional LLMs for variety.  
 🔹 **Cloud Storage** – Store and retrieve PDFs from cloud services.  
-🔹 **Mobile App Version** – Extend functionality to mobile platforms.  
+🔹 **Mobile App Version** – Extend functionality to mobile platforms. 
 
 ---
-
----
-
 Happy Coding! 🚀💡
 
